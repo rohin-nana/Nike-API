@@ -1,5 +1,5 @@
 {
-  "name": "Shoe Size Tracker",
+  "name": "nike-api",
   "version": "1.0.0",
   "description": "#### Track shoe sizes",
   "main": "server.js",
